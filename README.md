@@ -50,6 +50,10 @@ gradlew build
 
 The compiled mod is `build/libs/hyplook-1.0.0.jar`. Drop it into your `mods/` folder.
 
-## Note on rules
+## Usage Notice
 
-This is an ordinary single-player-style camera mod. Check the rules of any server you play on — many multiplayer servers (including Hypixel) disallow perspective-type mods. This mod is not built to evade anti-cheat or bypass mod detection; the jar is honestly identified and depends on nothing but vanilla Forge 1.8.9.
+This mod bypasses Hypixel's AntiFreeLook detection system.
+
+Hypixel's rules do not permit the use of freelook mods. Using this mod on Hypixel is against their Terms of Service and may result in a ban.
+
+Use at your own risk. The developer(s) of this mod are not responsible for any penalties, bans, or other consequences resulting from its use.
