@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hyplook",
+  "name": "Hyplook",
+  "description": "Temporary free-look camera for Minecraft 1.8.9. Hold the keybind to swing the camera out behind your character and look around without turning the player. Features hold/toggle modes, mouse-button keybinds, invert pitch, camera-facing nametags, chat commands and a config GUI.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheAdamNew", "Netanyahu"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
