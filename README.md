@@ -1,6 +1,6 @@
 # Hyplook
 
-A client-side temporary free-look ("perspective") camera for Minecraft 1.8.9 Forge. Hold the keybind and the camera swings out behind your character so you can look around without turning the player — your hitbox, movement direction, aiming and nametag-facing all stay locked to where you were looking when you pressed the key.
+A client-side temporary free-look ("perspective") camera for Minecraft 1.8.9 Forge. Hold the keybind and the camera swings out behind your character so you can look around without turning the player - your hitbox, movement direction, aiming and nametag-facing all stay locked to where you were looking when you pressed the key.
 
 ## Features
 
